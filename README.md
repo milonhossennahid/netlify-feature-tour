@@ -1,4 +1,4 @@
-![Netlify examples](netlify-badge-examples.png)
+![Netlify examples](https://uploads.onecompiler.io/43numy9ce/442bch9rw/1000183547.png)
 
 # Netlify Feature Tour
 
